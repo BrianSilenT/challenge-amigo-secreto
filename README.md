@@ -6,20 +6,17 @@
 
 <em> Challenge amigo secreto </em>
 <h1 align="center"> Amigo Secreto </h1>
+<p> Desafío del Curso de Alura el cual consiste en desarrollar las funciones de una página que busca el ingreso de una lista de nombre para encontrar un ganador aleatoriamente. </p>
 
-*[Insignias](#insignias)
+# **Funciones**
 
-*[Índice](#índice)
+## Ingresa el nombre de tus amigos y haz click en agregar o enter para guardar.
+## No puedes ingresar nombres repetidos, ni espacios en blanco.
+## Una vez que ingreses 2 o mas nombres se activara el boton sortear.
+## Puedes ingresar tamtos nombres como quieras.
+## Una vez que realices el sorteo, se reiniciara automaicamente despues de 3 segundos.
 
-*[Descripción del proyecto](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 *[Personas Contribuyentes](#personas-contribuyentes)
 
