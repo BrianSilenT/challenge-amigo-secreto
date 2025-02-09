@@ -77,4 +77,13 @@ function reiniciarJuego() {
     // Limpiar la caja de texto
     limpiarCaja();
 }
+
+document.getElementById("amigo").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        agregarAmigo();
+    }
+});
+
+
 document.querySelector(".button-draw").disabled = true;
+
