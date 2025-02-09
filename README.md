@@ -1,4 +1,6 @@
-
+![Static Badge](https://img.shields.io/badge/estado_del_proyecto-terminado-green)
+![Static Badge](https://img.shields.io/badge/autor-Brian_plasencia-red
+)
 
 ![Amigo secreto](https://github.com/user-attachments/assets/3ebfee5a-d431-46a4-952d-ef67920643e7)
 
