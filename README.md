@@ -16,13 +16,20 @@
 ## Puedes ingresar tamtos nombres como quieras.
 ## Una vez que realices el sorteo, se reiniciara automaicamente despues de 3 segundos.
 
+# **¿Como Jugarlo?**
+
+## Puedes descargar los archivos de la rama main y ejecutarlos en vs code.
+## Asegurate de que los archivos se encuentren en la misma carpeta para que funcionen correctamente.
+## Ejecuta en archivo index.html para abrirlo en tu navegador y podras jugar.
+### pudes realizar algun cambio si lo deseas ya sea una funcion o funciones visuales.
+
+# **Tecnologias utilizadas**
+
+![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS-purple)
+![Static Badge](https://img.shields.io/badge/Java_Script-yellow)
 
 
-*[Personas Contribuyentes](#personas-contribuyentes)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
 
